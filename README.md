@@ -160,5 +160,4 @@ Use [GitHub issues](https://github.com/emdash-cms/emdash-build/issues) for repro
 - [Cloudflare Workers for Platforms documentation](https://developers.cloudflare.com/cloudflare-for-platforms/workers-for-platforms/)
 
 ## License
-
 EmDash Build is available under the [MIT License](./LICENSE).
