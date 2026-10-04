@@ -1,7 +1,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "emdash-build",
-	"account_id": "1f74638c495bc9f0330ce5c8e64c1b6b",
+	"account_id": "180cef8f6afb676fc464ec424ea8b1e7",
 	"compatibility_date": "2026-03-24",
 	"compatibility_flags": ["nodejs_compat", "enable_abortsignal_rpc"],
 	"main": "./src/worker/index.ts",
@@ -124,7 +124,7 @@
 		},
 	],
 	"vars": {
-		"APP_HOSTNAME": "emdash-build.yhbzyscom",
+		"APP_HOSTNAME": "emdash-build.yhbzys.com",
 		"IDENTITY_AUDIENCE": "a0d59c28e4db1654f375098da9065f7cf5757d976e517554265b826e895b6b25",
 		"IDENTITY_BROKER_URL": "https://build.emdashcms.com/api/auth/callback",
 		"IDENTITY_ISSUER": "https://cf-emdash-cms.cloudflareaccess.com",
